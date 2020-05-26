@@ -1,0 +1,58 @@
+h1{
+	font-size: 70px;
+	border-radius: 500px;
+	text-align: center;
+	color: white;
+	background-color: green;
+   opacity: 0.8;
+}
+
+h2{
+font-size: 45px;
+	text-align: center;
+	color: white;
+	background-color: blue;
+	border-radius: 400px;
+	opacity: 0.9;
+}
+h3{
+	font-size: 45px;
+text-align: center;
+color: white;
+background-color: orange;
+border-radius: 400px; 
+opacity: 0.9;
+}
+
+body{
+	background-image: url(img/3718x3718_px_Earth_space-837796.jpg!d);
+	opacity: 0.8;
+	font-family: cursive;
+}
+p{
+	border-radius: 30px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
+b{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+ol{
+	color: white;
+	border-radius: 20px;
+	font-size: 30px;
+	text-align: left;
+}
+img{
+	border-radius: 500px; 
+}
+
+li{
+	background-color: blue;
+	border-radius: 400px;  
+	background-size: 30px 10px; 
+}
